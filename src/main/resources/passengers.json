@@ -1,0 +1,103 @@
+{
+  "passengers": [
+    {
+      "name": "Pavel",
+      "currentPosition": {
+        "x": 5,
+        "y": 2
+      },
+      "endPosition": {
+        "x": 1,
+        "y": 2
+      }
+    },
+    {
+      "name": "Adam",
+      "currentPosition": {
+        "x": 6,
+        "y": 1
+      },
+      "endPosition": {
+        "x": 12,
+        "y": 5
+      }
+    },
+    {
+      "name": "Yan",
+      "currentPosition": {
+        "x": 4,
+        "y": 7
+      },
+      "endPosition": {
+        "x": 7,
+        "y": 4
+      }
+    },
+    {
+      "name": "Roman",
+      "currentPosition": {
+        "x": 9,
+        "y": 2
+      },
+      "endPosition": {
+        "x": 7,
+        "y": 8
+      }
+    },
+    {
+      "name": "Alex",
+      "currentPosition": {
+        "x": 12,
+        "y": 9
+      },
+      "endPosition": {
+        "x": 7,
+        "y": 4
+      }
+    },
+    {
+      "name": "Den",
+      "currentPosition": {
+        "x": 14,
+        "y": 7
+      },
+      "endPosition": {
+        "x": 2,
+        "y": 1
+      }
+    },
+    {
+      "name": "Tom",
+      "currentPosition": {
+        "x": 6,
+        "y": 3
+      },
+      "endPosition": {
+        "x": 14,
+        "y": 4
+      }
+    },
+    {
+      "name": "Boris",
+      "currentPosition": {
+        "x": 11,
+        "y": 2
+      },
+      "endPosition": {
+        "x": 12,
+        "y": 1
+      }
+    },
+    {
+      "name": "Evgeniy",
+      "currentPosition": {
+        "x": 12,
+        "y": 7
+      },
+      "endPosition": {
+        "x": 12,
+        "y": 5
+      }
+    }
+  ]
+}

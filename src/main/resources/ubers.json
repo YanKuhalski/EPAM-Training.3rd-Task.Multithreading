@@ -1,0 +1,22 @@
+{
+  "ubers": [
+    {
+      "currentPosition": {
+        "x": 7,
+        "y": 9
+      }
+    },
+    {
+      "currentPosition": {
+        "x": 3,
+        "y": 6
+      }
+    },
+    {
+      "currentPosition": {
+        "x": 1,
+        "y": 2
+      }
+    }
+  ]
+}
